@@ -1,6 +1,6 @@
-# index instance
+# CI instance
 
-name: Index
+name: CI
 
 # Controls when the workflow will run
 on:
